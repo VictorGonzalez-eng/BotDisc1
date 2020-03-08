@@ -1,2 +1,4 @@
-# Botdisc1
-bot discord 
+# Discord Bot
+Learning how to make discord bots!
+
+[Discord Api](https://discordapp.com/developers/docs/intro)
