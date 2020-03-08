@@ -1,4 +1,8 @@
 # Discord Bot
-Learning how to make discord bots!
+Learning how to make discord bots using python!
 
-[Discord Api](https://discordapp.com/developers/docs/intro)
+![image](https://www.python.org/static/opengraph-icon-200x200.png)
+
+## Documentation
+
+- [Discord Api](https://discordapp.com/developers/docs/intro)
