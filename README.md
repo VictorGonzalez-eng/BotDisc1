@@ -1,6 +1,5 @@
 # Discord Bot
 
-tanto faz
 
 Learning how to make discord bots using python!
 
@@ -10,3 +9,4 @@ Learning how to make discord bots using python!
 ## Documentation
 
 - [Discord Api](https://discordapp.com/developers/docs/intro)
+- [discord.py](https://discordpy.readthedocs.io/en/latest/)
